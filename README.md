@@ -1,16 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 26f9de3f18588131d5f5b73b3262134f_f126c8ad707411f1897e5254002afed2
-    ReservedCode1: nNLClprd1vkzRBVwUu8yzqaUam1ScLI9pqO7LdkXDBW2OqUb8mQ2w9aMq3+9bEpJLxnci8LZ3oNC5HU1kq8PuyyrMprFVh0TF72dYC3LUQbGoFH9dxHxtLSnvi0D4ybFbF/0QSSSS4mrwoXq8Rwe4k6gC43JUDwaWXkT4x7mB8f8z02SAQNW0/YYvOU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 26f9de3f18588131d5f5b73b3262134f_f126c8ad707411f1897e5254002afed2
-    ReservedCode2: nNLClprd1vkzRBVwUu8yzqaUam1ScLI9pqO7LdkXDBW2OqUb8mQ2w9aMq3+9bEpJLxnci8LZ3oNC5HU1kq8PuyyrMprFVh0TF72dYC3LUQbGoFH9dxHxtLSnvi0D4ybFbF/0QSSSS4mrwoXq8Rwe4k6gC43JUDwaWXkT4x7mB8f8z02SAQNW0/YYvOU=
----
-
-
-
 # SZ-Bot — 超自然行动组 AI 自动回复机器人
 
 > 《超自然行动组》(Preternatural) PC 版游戏内聊天 AI 自动回复机器人。  
